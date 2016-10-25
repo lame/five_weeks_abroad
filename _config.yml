@@ -15,14 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Analog Drives
 # email: your-email@domain.com
-description: "Life through the rose tinted glasses"
+description: "Driving Matters"
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://analogdrives.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://analogdrives.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
 # Build settings
-# markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
@@ -32,6 +31,8 @@ gems:
 #   - Gemfile.lock
 
 markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 permalink: /:year/:i_month/:i_day/:title.html
 exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, s3_website.yml, tmp]
 paginate: 3
