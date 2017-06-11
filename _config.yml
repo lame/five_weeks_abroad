@@ -30,7 +30,7 @@ gems:
 #   - Gemfile
 #   - Gemfile.lock
 
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["strikethrough"]
 permalink: /:year/:i_month/:i_day/:title.html
