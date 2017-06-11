@@ -218,6 +218,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-paginate
+  jekyll-sitemap
   minima (~> 2.0)
   redcarpet
   s3_website
