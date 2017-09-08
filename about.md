@@ -15,4 +15,7 @@ You can find the source code for Jekyll at
 [jekyll](https://github.com/jekyll/jekyll)
  -->
 
- We are car enthusiasts. We care about the experience: the car, the driver, and most importantly, the stories. Analog Drives is a celebration of car culture, car enthusiasts, and shared experiences in the community and on the road. We believe people and their stories trump lap times and lateral G’s. We intend to create content that fulfills that mindset. We will present meaningful commentary and interviews on cars from all walks of life, so long as the owners are passionate and the cars are driven. We create works that you will become engrossed in and that will inspire you to seek out similar experiences. But above all we want to help expose the people and stories that make the car community so special. We are Analog Drives.
+Ryan: A software engineer with wanderlust who convinced his job to let him work abroad for 5 weeks
+Sara: A pragmatic nurse who did not think this was possible
+Penny: A majestic pug along for the ride hoping to find tapas on Spanish sidewalks
+

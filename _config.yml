@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Analog Drives
+title: Five Weeks Abroad
 # email: your-email@domain.com
-description: "Driving Matters"
+description: "Life in a new place... for a little while"
 # baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://analogdrives.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://FiveWeeksAbroad.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -34,6 +34,6 @@ gems:
 markdown: kramdown
 redcarpet:
   extensions: ["strikethrough"]
-permalink: /blog/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, s3_website.yml, tmp]
 paginate: 1
