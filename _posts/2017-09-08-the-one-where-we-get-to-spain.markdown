@@ -2,7 +2,9 @@
 layout: post
 title:  "The One Where We Get to Spain"
 date:   2017-09-08
+author: Saralee Morales
 comments: true
+tags: travel spain
 ---
 
 The incredible forces of jetlag have me writing this at 3:42am on this fine Friday morning. This is after having stared at the ceiling of our tiny hotel room for 2 hrs...
