@@ -55,9 +55,9 @@ Penny ate the finest mediocre sushi and enjoyed views of the sheeple down below.
 
 In the words of Ferris Bueller, “It’s so choice. If you have the means, I highly recommend picking one up.” Of course, he’s talking about a vintage Ferrari and I’m referencing a piece of plastic with amazing travel bonuses-- but, to each their own.
 
-[small_hotel_1]: https://s3.amazonaws.com/fiveweeksabroad/BlogTiny1.jpg
-[small_hotel_2]: https://s3.amazonaws.com/fiveweeksabroad/BlogTiny2.jpg
-[meatballs]: https://s3.amazonaws.com/fiveweeksabroad/Blogmeatballs.jpg
-[penny_pee]: https://s3.amazonaws.com/fiveweeksabroad/Blogpee.jpg
-[lounge_penny]: https://s3.amazonaws.com/fiveweeksabroad/BlogLounge1.jpg
-[lounge_drinks]: https://s3.amazonaws.com/fiveweeksabroad/BlogLounge2.jpg
+[small_hotel_1]:    https://s3.amazonaws.com/fiveweeksabroad/BlogTiny1.jpg
+[small_hotel_2]:    https://s3.amazonaws.com/fiveweeksabroad/BlogTiny2.jpg
+[meatballs]:        https://s3.amazonaws.com/fiveweeksabroad/Blogmeatballs.jpg
+[penny_pee]:        https://s3.amazonaws.com/fiveweeksabroad/Blogpee.jpg
+[lounge_penny]:     https://s3.amazonaws.com/fiveweeksabroad/BlogLounge1.jpg
+[lounge_drinks]:    https://s3.amazonaws.com/fiveweeksabroad/BlogLounge2.jpg

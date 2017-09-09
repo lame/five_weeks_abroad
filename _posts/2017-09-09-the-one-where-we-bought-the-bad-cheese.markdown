@@ -4,7 +4,7 @@ title:  "The One Where we Bought Bad Cheese"
 date:   2017-09-09
 author: Saralee Morales
 comments: true
-tags: travel spain
+tags: travel spain food
 ---
 
 The One where I buy some bad cheese
@@ -66,12 +66,12 @@ I snatched up some Manchego cheese and jamon Iberico with much excitement. The c
 ![Manchego Cheese][manchego]
 
 
-[sweeping_lady_gif]: https://media.giphy.com/media/3ov9k0ap6XEgjUoplC/giphy.gif
-[penny_in_carrier]: https://s3.amazonaws.com/fiveweeksabroad/09092017/penny_in_carrier.jpg
-[churro_time]: https://s3.amazonaws.com/fiveweeksabroad/09092017/churro_time.jpg
-[ryan_in_apartment]: https://s3.amazonaws.com/fiveweeksabroad/09092017/ryan_apartment.jpg
-[penny_on_couch]: https://s3.amazonaws.com/fiveweeksabroad/09092017/penny_on_couch.jpg
-[enpty_town_promenade]: https://s3.amazonaws.com/fiveweeksabroad/09092017/empty_promenade.jpg
-[packed_town_promenade]: https://s3.amazonaws.com/fiveweeksabroad/09092017/packed_promenade(1).jpg
-[almond_pile]: https://s3.amazonaws.com/fiveweeksabroad/09092017/almonds.jpg
-[manchego]: https://s3.amazonaws.com/fiveweeksabroad/09092017/manchego.jpg
+[sweeping_lady_gif]:      https://media.giphy.com/media/3ov9k0ap6XEgjUoplC/giphy.gif
+[penny_in_carrier]:       https://s3.amazonaws.com/fiveweeksabroad/09092017/penny_in_carrier.jpg
+[churro_time]:            https://s3.amazonaws.com/fiveweeksabroad/09092017/churro_time.jpg
+[ryan_in_apartment]:      https://s3.amazonaws.com/fiveweeksabroad/09092017/ryan_apartment.jpg
+[penny_on_couch]:         https://s3.amazonaws.com/fiveweeksabroad/09092017/penny_on_couch.jpg
+[enpty_town_promenade]:   https://s3.amazonaws.com/fiveweeksabroad/09092017/empty_promenade.jpg
+[packed_town_promenade]:  https://s3.amazonaws.com/fiveweeksabroad/09092017/packed_promenade(1).jpg
+[almond_pile]:            https://s3.amazonaws.com/fiveweeksabroad/09092017/almonds.jpg
+[manchego]:               https://s3.amazonaws.com/fiveweeksabroad/09092017/manchego.jpg
