@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "The One Where we Bought Bad Cheese"
+title:  "The One Where We Bought Bad Cheese"
 date:   2017-09-09
 author: Saralee Morales
 comments: true
 tags: travel spain food
 ---
-
-The One where I buy some bad cheese
-
 
 We made it to Malaga Friday morning after a short flight from Barcelona. Ryan was awestruck by the floor cleaning techniques at the Barcelona airport.
 
