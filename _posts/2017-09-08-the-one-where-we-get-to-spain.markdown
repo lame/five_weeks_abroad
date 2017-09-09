@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where We Get to Spain"
+title:  "The One Where we Get to Spain"
 date:   2017-09-08
 author: Saralee Morales
 comments: true
