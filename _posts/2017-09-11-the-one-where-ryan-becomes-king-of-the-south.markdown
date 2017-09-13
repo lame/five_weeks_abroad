@@ -34,7 +34,7 @@ We decided to venture out to Castillo de Gibralfaro, a Moorish castle that sits 
 ![Bull Stadium][malaga_city_overlook]
 
 
-We took the No. 35 bus up to the castle since we were feeling lazy smart. It felt as if we were in an episode of Game of Thrones, in a Dornish fortress.
+We took the No. 35 bus up to the castle since we were feeling ~~lazy~~ smart. It felt as if we were in an episode of Game of Thrones, in a Dornish fortress.
 
 ![Castle Steps][castle_steps]
 

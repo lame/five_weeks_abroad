@@ -27,6 +27,7 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock
