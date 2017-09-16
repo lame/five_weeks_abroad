@@ -7,7 +7,7 @@ comments: true
 tags: travel spain game-of-thones dorne seville alcazar
 ---
 
-Yes, DORNE. The Alcázar in Seville is where Game of Thrones filmed scenes for the Water Gardens in Dorne for Season 5. We’re pretty big GoT fans (who isn’t?) and once I learned about this nearby filming location, we had to get our butts to Seville. 
+Yes, DORNE. The Alcázar in Seville is where Game of Thrones filmed scenes for the Water Gardens of Dorne for Season 5. We’re pretty big GoT fans (who isn’t?) and once I learned about this nearby filming location, we had to get our butts to Seville. 
 So we did!
 
 
@@ -44,7 +44,7 @@ The Alcázar of Seville is a medieval Islamic palace. If I had to explain the Al
 ![Alcazar Waterspout][alcazar_waterspout]
 
 
-Here you can see the orange building where Prince Doran would sit and overlook the Water Gardens from. 
+Here you can see the orange building where Prince Doran of House Martell would sit and overlook the Water Gardens from. 
 No wonder the Game of Thrones team decided to film here. The show managed to find a gorgeous location to shoot, and its equally beautiful on screen and in real life. I didn’t want to leave. 
 
 
