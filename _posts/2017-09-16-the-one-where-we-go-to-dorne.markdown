@@ -44,7 +44,8 @@ The Alcázar of Seville is a medieval Islamic palace. If I had to explain the Al
 ![Alcazar Waterspout][alcazar_waterspout]
 
 
-No wonder the Game of Thrones team decided to film here. I didn’t want to leave. 
+Here you can see the orange building where Prince Doran would sit and overlook the Water Gardens from. 
+No wonder the Game of Thrones team decided to film here. The show managed to find a gorgeous location to shoot, and its equally beautiful on screen and in real life. I didn’t want to leave. 
 
 
 ![Alcazar Sara in gardens][sara_gardens]
