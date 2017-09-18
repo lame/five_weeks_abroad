@@ -7,6 +7,8 @@ comments: true
 tags: digital-nomad advice software-development travel
 ---
 
+![Malaga Map][malaga_map]
+
 As a bit of a change, I wanted to talk for a bit about the process of working abroad and getting to a place where this
 was possible. I think a lot of software developers and engineers talk a lot about being a 'digital nomad', or a person
 who can maintain a consistent income anywhere in the world. I usually see this being said in conjunction with mention of
@@ -43,11 +45,15 @@ Several months of working remote a day or two a week went well, contingency plan
 work from Europe for 5 weeks! My manager vouched for me and asked up the chain of command. Everybody seemed a little dubious but
 okay with the transition.
 
+![My WiFi Lifeline][wifi]
 
 Leading up to the trip it was very important to get all my tasks in order, *mise en place* as the French say.
 I was assigned two large projects and made a point to get all the relevant information I could think of, reviewed and
 re-reviewed the tickets so I wouldn't be held up with missing informaition forcing me to make meetings or shape my
 schedule too much around Pacific Time.
+
+
+![404 Elevator Not Found][elevator]
 
 
 Then it's off-we-go to Spain for 5 weeks! I'm a little over a week in as of now and I think it seems to be going well.
@@ -58,6 +64,16 @@ have managed to keep my workload on par with being in the office, so I guess Tim
 
 We'll see how the remainder of the trip goes! :es:
 
+![Malaga][malaga]
 
 Stay tuned for a write up of how we got Penny (our pug) to be able to join us overseas for our trip! Spoiler alert it
 rhymes with paperwork and the Benjamins.
+
+![Penny on the Train][penny_chin]
+
+
+[penny_chin]: https://s3.amazonaws.com/fiveweeksabroad/09172017/penny_chin.jpg
+[elevator]:   https://s3.amazonaws.com/fiveweeksabroad/09172017/elevator.jpg
+[malaga]:     https://s3.amazonaws.com/fiveweeksabroad/09172017/malaga.jpg
+[malaga_map]: https://s3.amazonaws.com/fiveweeksabroad/09172017/map.jpg
+[wifi]:       https://s3.amazonaws.com/fiveweeksabroad/09172017/wifi.jpg
