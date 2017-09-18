@@ -27,7 +27,7 @@ logic behind this for sure, but it take a lot of dicipline to actually employ. I
 working days to my regular work schedule to test my own dicipline with this newfound freedom while still close to the
 office; working from the couch or quiet coffee shops. This was integral to becoming better at working remote, 0 to 100
 is a strategy that is setting you up for failure. Another lucky coincidence is that my job has offices in several
-timezones. This puts a need for people to communicate asynchronously through slack (hopefully) or email (if they're mas
+timezones. This puts a need for people to communicate asynchronously through slack (hopefully) or email (if they're mad
 at you I guess). This culture of employees working between offices and timezones was promising for a more extreme
 arrangement or working overseas.
 
@@ -44,7 +44,7 @@ work from Europe for 5 weeks! My manager vouched for me and asked up the chain o
 okay with the transition.
 
 
-Leading up to the trip it was very important to get all my tasks in order, #everything in it's place# as the French say.
+Leading up to the trip it was very important to get all my tasks in order, *mise en place* as the French say.
 I was assigned two large projects and made a point to get all the relevant information I could think of, reviewed and
 re-reviewed the tickets so I wouldn't be held up with missing informaition forcing me to make meetings or shape my
 schedule too much around Pacific Time.
@@ -56,7 +56,7 @@ surroundings than I had anticipated. With a solid 3 hour pre-breakfast stint and
 have managed to keep my workload on par with being in the office, so I guess Tim Ferris might be onto something.
 
 
-We'll see how the remainder of the trip goes!
+We'll see how the remainder of the trip goes! :es:
 
 
 Stay tuned for a write up of how we got Penny (our pug) to be able to join us overseas for our trip! Spoiler alert it
