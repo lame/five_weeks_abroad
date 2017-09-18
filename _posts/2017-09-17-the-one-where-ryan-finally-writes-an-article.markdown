@@ -1,7 +1,7 @@
 ---
 title: The One Where Ryan Finally Writes an Article
 layout: post
-arthor: Ryan Kuhl
+author: Ryan Kuhl
 date: 2017/09/17
 comments: true
 tags: digital-nomad advice software-development travel
