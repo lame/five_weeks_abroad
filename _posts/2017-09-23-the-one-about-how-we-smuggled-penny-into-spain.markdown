@@ -1,5 +1,13 @@
-The One about how we smuggled Penny into Spain
-Or how we learned to stop worrying and trust the stamp
+---
+layout: post
+title:  "The One About How We Smuggled Penny into Spain"
+date:   2017-09-23
+author: Saralee Morales, Ryan Kuhl
+comments: true
+tags: travel spain dog international health certificate USDA APHIS
+---
+
+*Or How We Learned to Stop Worrying and Trust the Stamp*
 
 
 While we were in Paris earlier this year we met an amazing couple, Chelsea and Trey Stone [Our Steppin Stones Blog]. They were two expats in their 30s that decided to move to Spain and fulfil their dream of living abroad for a year, bringing along their Pekinese Cashman. Meeting them felt like a sign, giving us the inspiration for our current trip. Before meeting Chelsea and Trey, we had no idea that you could even bring a pet into Europe from the US. It’s not something that we really ever sat and talked about until after we had met them. 
