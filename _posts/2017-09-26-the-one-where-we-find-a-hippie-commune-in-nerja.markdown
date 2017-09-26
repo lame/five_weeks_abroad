@@ -9,7 +9,7 @@ tags: travel spain nerja kayak beach mojito
 
 Our friend Geoffrey here in Malaga let us know about one of the gems nearby. A small beach town known as Nerja about an hour east, where we could go kayaking and check out some beautiful rock formations. Geoffrey has been living in Malaga for over a year and is a great guide to the area; you can check out his website about things to do around Malaga [here](https://www.malagaflow.com/en/). 
 
-Friday morning, Ryan found out that we could get to Nerja by one of Malaga’s regional buses. We quickly searched for the next bus out and made our way to the station. We bought two roundtrip bus tickets to Nerja for less than 18€ and were on our way! 
+Friday morning, Ryan found out that we could get to Nerja by one of Malaga’s regional buses. We quickly searched for the next bus out and made our way to the station. We bought two roundtrip bus tickets to Nerja for less than €18 and were on our way! 
 
 The bus took a coastal highway very akin to the Pacific Coast Highway. After an hour and a half, we were in Nerja. We had Googled the closest place where we could rent some kayaks which turned out to be only a 13 minute walk from the bus stop and right on the beach. 
 
