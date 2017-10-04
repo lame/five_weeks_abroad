@@ -45,7 +45,9 @@ We picked up our hairnets and hardhats and were on our way!
 
 It’s like we were stepping into the Honey Bunches of Oats factory. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5knIdLZSho" frameborder="0" allowfullscreen></iframe>
+![Honey Bunches of Oats](https://img.youtu.be/Q5knIdLZSho?t=6s.jpg)]
+(https://youtu.be/Q5knIdLZSho?t=6s "Honey Bunches of Oats")
+
 
 
 After this checkpoint, begins the newly renovated Caminito del Rey. The 2.9km (1.8 mi) boardwalk brought us through the narrow gorge navigating us along the cliffside about 350 feet above the river.
