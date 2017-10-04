@@ -46,7 +46,7 @@ We picked up our hairnets and hardhats and were on our way!
 It’s like we were stepping into the Honey Bunches of Oats factory. 
 
 ![Honey Bunches of Oats](https://img.youtu.be/Q5knIdLZSho?t=6s.jpg)]
-(https://youtu.be/Q5knIdLZSho?t=6s "Honey Bunches of Oats")
+(https://youtu.be/Q5knIdLZSho?t=6s)
 
 
 
