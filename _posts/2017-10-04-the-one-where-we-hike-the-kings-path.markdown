@@ -45,8 +45,7 @@ We picked up our hairnets and hardhats and were on our way!
 
 It’s like we were stepping into the Honey Bunches of Oats factory. 
 
-![Honey Bunches of Oats](https://img.youtu.be/Q5knIdLZSho?t=6s.jpg)]
-(https://youtu.be/Q5knIdLZSho?t=6s)
+![Honey Bunches of Oats Lady][honey]
 
 
 
@@ -133,5 +132,5 @@ Hiking El Caminito del Rey was an unforgettable experience, a true hallmark of S
 [north_hike]:   https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_North_Hike.jpg
 [bus_ride]:     https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_Bus_Ride.jpg
 [el_camino]:    https://s3.amazonaws.com/fiveweeksabroad/10042017/El_Camino.jpg
-
+[honey]:        https://img.buzzfeed.com/buzzfeed-static/static/2016-05/11/15/campaign_images/webdr02/the-honey-bunches-of-oats-lady-2-18915-1462995619-19_dblbig.jpg
 
