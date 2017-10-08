@@ -114,24 +114,24 @@ Hiking El Caminito del Rey was an unforgettable experience, a true hallmark of S
 
 
 [caminito_del_rey_documents]: http://www.caminitodelrey.info/en/5235/documents
-[shadows]: https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_Shadows.jpg
-[camino_last]: https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_last.jpg
-[taco_bell]:  https://s3.amazonaws.com/fiveweeksabroad/10042017/Taco_Bell.jpg
-[end_of_caminito_1]:  https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_End_1.jpg
-[end_of_caminito_2]:  https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_End_2.jpg
-[bridge]:          https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_Bridge.jpg
-[old_path]:         https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_Old_Path.jpg
-[camino_ryan]:    https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_Ryan.jpg
-[camino_sara]:      https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_Sara.jpg
-[view_1]:       https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_View_1.jpg
-[view_2]:       https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_View_2.jpg
-[view_3]:       https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_View_3.jpg
-[train]:        https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_Train.jpg
-[walkway]:      https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_Walkway.jpg
-[gorge]:        https://s3.amazonaws.com/fiveweeksabroad/10042017/El_Chorro_Gorge.jpg
-[hardhats]:     https://s3.amazonaws.com/fiveweeksabroad/10042017/Hard_Hats.jpg
-[north_hike]:   https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_North_Hike.jpg
-[bus_ride]:     https://s3.amazonaws.com/fiveweeksabroad/10042017/Camino_Bus_Ride.jpg
-[el_camino]:    https://s3.amazonaws.com/fiveweeksabroad/10042017/El_Camino.jpg
+[shadows]: https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_Shadows.jpg
+[camino_last]: https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_last.jpg
+[taco_bell]:  https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Taco_Bell.jpg
+[end_of_caminito_1]:  https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_End_1.jpg
+[end_of_caminito_2]:  https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_End_2.jpg
+[bridge]:          https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_Bridge.jpg
+[old_path]:         https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_Old_Path.jpg
+[camino_ryan]:    https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_Ryan.jpg
+[camino_sara]:      https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_Sara.jpg
+[view_1]:       https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_View_1.jpg
+[view_2]:       https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_View_2.jpg
+[view_3]:       https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_View_3.jpg
+[train]:        https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_Train.jpg
+[walkway]:      https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_Walkway.jpg
+[gorge]:        https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/El_Chorro_Gorge.jpg
+[hardhats]:     https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Hard_Hats.jpg
+[north_hike]:   https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_North_Hike.jpg
+[bus_ride]:     https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/Camino_Bus_Ride.jpg
+[el_camino]:    https://s3.amazonaws.com/fiveweeksabroad-assets/10042017/El_Camino.jpg
 [honey]:        https://img.buzzfeed.com/buzzfeed-static/static/2016-05/11/15/campaign_images/webdr02/the-honey-bunches-of-oats-lady-2-18915-1462995619-19_dblbig.jpg
 

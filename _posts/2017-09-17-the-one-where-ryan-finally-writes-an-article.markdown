@@ -73,8 +73,8 @@ rhymes with paperwork and the Benjamins.
 ![Penny on the Train][penny_chin]
 
 
-[penny_chin]: https://s3.amazonaws.com/fiveweeksabroad/09172017/penny_chin.jpg
-[elevator]:   https://s3.amazonaws.com/fiveweeksabroad/09172017/elevator.jpg
-[malaga]:     https://s3.amazonaws.com/fiveweeksabroad/09172017/malaga.jpg
-[malaga_map]: https://s3.amazonaws.com/fiveweeksabroad/09172017/map.jpg
-[wifi]:       https://s3.amazonaws.com/fiveweeksabroad/09172017/wifi.jpg
+[penny_chin]: https://s3.amazonaws.com/fiveweeksabroad-assets/09172017/penny_chin.jpg
+[elevator]:   https://s3.amazonaws.com/fiveweeksabroad-assets/09172017/elevator.jpg
+[malaga]:     https://s3.amazonaws.com/fiveweeksabroad-assets/09172017/malaga.jpg
+[malaga_map]: https://s3.amazonaws.com/fiveweeksabroad-assets/09172017/map.jpg
+[wifi]:       https://s3.amazonaws.com/fiveweeksabroad-assets/09172017/wifi.jpg

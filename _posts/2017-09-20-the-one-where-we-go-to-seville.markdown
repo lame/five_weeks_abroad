@@ -83,13 +83,13 @@ If those hams hanging from the ceiling look sweaty, it’s because they were.
 We had a wonderful time in Seville. If you find yourself in Spain, I highly recommend a visit. Be prepared for some heat, beautiful architecture, and confusing streets.
 
 
-[ryan_el_toro]:       https://s3.amazonaws.com/fiveweeksabroad/09202017/Ryan_El_Torro.jpg
-[toro_exhibit_room]:  https://s3.amazonaws.com/fiveweeksabroad/09202017/Torro_Exhibit.jpg
-[sara_el_torro]:      https://s3.amazonaws.com/fiveweeksabroad/09202017/El_Torro_Sara.jpg
-[ryan_toro_wall]:     https://s3.amazonaws.com/fiveweeksabroad/09202017/Torro_Wall.jpg
-[toro_plaza_selfie]:  https://s3.amazonaws.com/fiveweeksabroad/09202017/El_Torro_Selfie.jpg
-[el_rinconcillo]:     https://s3.amazonaws.com/fiveweeksabroad/09202017/Rinconcillo.jpg
-[screenshot]:         https://s3.amazonaws.com/fiveweeksabroad/09202017/Screenshot.jpg
-[penny_starwars]:     https://s3.amazonaws.com/fiveweeksabroad/09202017/Stormtroopers_Penny.jpg
-[mushrooms]:          https://s3.amazonaws.com/fiveweeksabroad/09202017/Mushrooms.jpg
-[rinconcillo_inside]: https://s3.amazonaws.com/fiveweeksabroad/09202017/Rinconcillo_Inside.jpg
+[ryan_el_toro]:       https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/Ryan_El_Torro.jpg
+[toro_exhibit_room]:  https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/Torro_Exhibit.jpg
+[sara_el_torro]:      https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/El_Torro_Sara.jpg
+[ryan_toro_wall]:     https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/Torro_Wall.jpg
+[toro_plaza_selfie]:  https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/El_Torro_Selfie.jpg
+[el_rinconcillo]:     https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/Rinconcillo.jpg
+[screenshot]:         https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/Screenshot.jpg
+[penny_starwars]:     https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/Stormtroopers_Penny.jpg
+[mushrooms]:          https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/Mushrooms.jpg
+[rinconcillo_inside]: https://s3.amazonaws.com/fiveweeksabroad-assets/09202017/Rinconcillo_Inside.jpg

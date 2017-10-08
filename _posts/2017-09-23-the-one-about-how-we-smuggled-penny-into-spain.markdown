@@ -114,10 +114,10 @@ I hope this was a helpful and informative post for those curious on how to impor
 [4]:    https://www.aphis.usda.gov/aphis/pet-travel/service-centers-endorsement-offices
 [5]:    https://www.norwegian.com/en/travel-info/baggage/travelling-with-pets/
 
-[cashman]:            https://s3.amazonaws.com/fiveweeksabroad/09232017/Cashman.jpg
-[penny_lounge]:       https://s3.amazonaws.com/fiveweeksabroad/09232017/Penny_Lounge.jpg
-[penny_peetime]:      https://s3.amazonaws.com/fiveweeksabroad/09232017/Penny_Peetime.jpg
-[penny_health_cert]:  https://s3.amazonaws.com/fiveweeksabroad/09232017/Penny_Health_Cert.jpg
-[penny_airplane]:     https://s3.amazonaws.com/fiveweeksabroad/09232017/Penny_Airplane.jpg
-[penny_train]:        https://s3.amazonaws.com/fiveweeksabroad/09232017/Penny_Train.jpg
-[penny_passport]:     https://s3.amazonaws.com/fiveweeksabroad/09232017/Penny_Pet_Passport.jpg
+[cashman]:            https://s3.amazonaws.com/fiveweeksabroad-assets/09232017/Cashman.jpg
+[penny_lounge]:       https://s3.amazonaws.com/fiveweeksabroad-assets/09232017/Penny_Lounge.jpg
+[penny_peetime]:      https://s3.amazonaws.com/fiveweeksabroad-assets/09232017/Penny_Peetime.jpg
+[penny_health_cert]:  https://s3.amazonaws.com/fiveweeksabroad-assets/09232017/Penny_Health_Cert.jpg
+[penny_airplane]:     https://s3.amazonaws.com/fiveweeksabroad-assets/09232017/Penny_Airplane.jpg
+[penny_train]:        https://s3.amazonaws.com/fiveweeksabroad-assets/09232017/Penny_Train.jpg
+[penny_passport]:     https://s3.amazonaws.com/fiveweeksabroad-assets/09232017/Penny_Pet_Passport.jpg

@@ -82,14 +82,14 @@ I love spontaneous trips like these. When we travel, we rarely have more than ju
 
 ![Spontaneity Wins][nerja_cave]
 
-[nerja_beach_walk]:    https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Beachwalk.jpg
-[nerja_pueblo_blanco]: https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Pueblo_Blanco.jpg
-[edificio_miami]:      https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Edificio_Miami.jpg
-[nerja_caffeine]:      https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Caffeine.jpg
-[nerja_beach_ryan]:    https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Ryan.jpg
-[nerja_rocks]:         https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Rocks.JPG
-[nerja_clear]:         https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Clearwater.JPG
-[nerja_dip]:           https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Dip.JPG
-[nerja_bar]:           https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Bar.jpg
-[bus_ride_back]:       https://s3.amazonaws.com/fiveweeksabroad/09262017/Bus_Ride_Back.jpg
-[nerja_cave]:          https://s3.amazonaws.com/fiveweeksabroad/09262017/Nerja_Cave.jpg
+[nerja_beach_walk]:    https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Beachwalk.jpg
+[nerja_pueblo_blanco]: https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Pueblo_Blanco.jpg
+[edificio_miami]:      https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Edificio_Miami.jpg
+[nerja_caffeine]:      https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Caffeine.jpg
+[nerja_beach_ryan]:    https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Ryan.jpg
+[nerja_rocks]:         https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Rocks.JPG
+[nerja_clear]:         https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Clearwater.JPG
+[nerja_dip]:           https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Dip.JPG
+[nerja_bar]:           https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Bar.jpg
+[bus_ride_back]:       https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Bus_Ride_Back.jpg
+[nerja_cave]:          https://s3.amazonaws.com/fiveweeksabroad-assets/09262017/Nerja_Cave.jpg

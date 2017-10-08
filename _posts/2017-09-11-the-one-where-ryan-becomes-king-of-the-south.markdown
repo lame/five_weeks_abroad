@@ -56,15 +56,15 @@ However, he didn’t realize that he might not fit in his new castle.
 ![Sara fitting in castle][sara_fitting]
 
 
-[wine_barrel]:            https://s3.amazonaws.com/fiveweeksabroad/09112017/wine.jpg
-[penny_phone]:            https://s3.amazonaws.com/fiveweeksabroad/09112017/lazy_phone.jpg
-[malaga_port]:            https://s3.amazonaws.com/fiveweeksabroad/09112017/malaga_port.jpg
-[malaga_city_overlook]:   https://s3.amazonaws.com/fiveweeksabroad/09112017/malaga_city_overlook.jpg
-[castle_steps]:           https://s3.amazonaws.com/fiveweeksabroad/09112017/castle_steps.jpg
-[castle_trees]:           https://s3.amazonaws.com/fiveweeksabroad/09112017/castle_pines.jpg
-[ryan_castle]:            https://s3.amazonaws.com/fiveweeksabroad/09112017/ryan_on_castle_pathway.jpg
-[ryan_not_fitting]:       https://s3.amazonaws.com/fiveweeksabroad/09112017/ryan_not_fitting.jpg
-[sara_fitting]:           https://s3.amazonaws.com/fiveweeksabroad/09112017/sara_in_castle.jpg
+[wine_barrel]:            https://s3.amazonaws.com/fiveweeksabroad-assets/09112017/wine.jpg
+[penny_phone]:            https://s3.amazonaws.com/fiveweeksabroad-assets/09112017/lazy_phone.jpg
+[malaga_port]:            https://s3.amazonaws.com/fiveweeksabroad-assets/09112017/malaga_port.jpg
+[malaga_city_overlook]:   https://s3.amazonaws.com/fiveweeksabroad-assets/09112017/malaga_city_overlook.jpg
+[castle_steps]:           https://s3.amazonaws.com/fiveweeksabroad-assets/09112017/castle_steps.jpg
+[castle_trees]:           https://s3.amazonaws.com/fiveweeksabroad-assets/09112017/castle_pines.jpg
+[ryan_castle]:            https://s3.amazonaws.com/fiveweeksabroad-assets/09112017/ryan_on_castle_pathway.jpg
+[ryan_not_fitting]:       https://s3.amazonaws.com/fiveweeksabroad-assets/09112017/ryan_not_fitting.jpg
+[sara_fitting]:           https://s3.amazonaws.com/fiveweeksabroad-assets/09112017/sara_in_castle.jpg
 
 
 

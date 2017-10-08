@@ -73,13 +73,13 @@ We will be in Seville for the weekend, so more updates on this awesome city comi
 ![Ryan looking at arches][ryan_arches]
 
 
-[ryan_arches]:          https://s3.amazonaws.com/fiveweeksabroad/09162017/AlcazarRyanArch.jpg
-[map_2]:                https://s3.amazonaws.com/fiveweeksabroad/09162017/AlcazarMap.jpg
-[sara_map]:             https://s3.amazonaws.com/fiveweeksabroad/09162017/AlcazarSaraMap.jpg
-[sara_gardens]:         https://s3.amazonaws.com/fiveweeksabroad/09162017/AlcazarSara.jpg
-[alcazar_waterspout]:   https://s3.amazonaws.com/fiveweeksabroad/09162017/AlcazarSpout.jpg
-[alcazar_courtyard]:    https://s3.amazonaws.com/fiveweeksabroad/09162017/AlcazarCourt.jpg
-[alcazar_arch]:         https://s3.amazonaws.com/fiveweeksabroad/09162017/AlcazarArch.jpg
-[cervantes]:            https://s3.amazonaws.com/fiveweeksabroad/09162017/Cervantes.jpg
-[penny_train_station]:  https://s3.amazonaws.com/fiveweeksabroad/09162017/PennyTrain.jpg
-[olive_trees]:          https://s3.amazonaws.com/fiveweeksabroad/09162017/Olives.jpg
+[ryan_arches]:          https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/AlcazarRyanArch.jpg
+[map_2]:                https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/AlcazarMap.jpg
+[sara_map]:             https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/AlcazarSaraMap.jpg
+[sara_gardens]:         https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/AlcazarSara.jpg
+[alcazar_waterspout]:   https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/AlcazarSpout.jpg
+[alcazar_courtyard]:    https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/AlcazarCourt.jpg
+[alcazar_arch]:         https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/AlcazarArch.jpg
+[cervantes]:            https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/Cervantes.jpg
+[penny_train_station]:  https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/PennyTrain.jpg
+[olive_trees]:          https://s3.amazonaws.com/fiveweeksabroad-assets/09162017/Olives.jpg

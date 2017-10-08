@@ -53,8 +53,8 @@ Til next time compadres! :wave:
 ![Dorn][dorn]
 
 [youtube]:    https://www.youtube.com/watch?v=bJUiWdM__Qw
-[dorn]:       https://s3.amazonaws.com/fiveweeksabroad/09132017/dorn_2.jpg
-[flan]:       https://s3.amazonaws.com/fiveweeksabroad/09132017/flan.jpg
-[kitchen]:    https://s3.amazonaws.com/fiveweeksabroad/09132017/kitchen.jpg
-[pasta]:      https://s3.amazonaws.com/fiveweeksabroad/09132017/pasta.jpg
-[sangria]:    https://s3.amazonaws.com/fiveweeksabroad/09132017/sangria.jpg
+[dorn]:       https://s3.amazonaws.com/fiveweeksabroad-assets/09132017/dorn_2.jpg
+[flan]:       https://s3.amazonaws.com/fiveweeksabroad-assets/09132017/flan.jpg
+[kitchen]:    https://s3.amazonaws.com/fiveweeksabroad-assets/09132017/kitchen.jpg
+[pasta]:      https://s3.amazonaws.com/fiveweeksabroad-assets/09132017/pasta.jpg
+[sangria]:    https://s3.amazonaws.com/fiveweeksabroad-assets/09132017/sangria.jpg

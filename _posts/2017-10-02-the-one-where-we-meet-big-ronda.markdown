@@ -107,20 +107,20 @@ Hasta Luego!
 
 ![Ryan and me at Ronda outlook][ronda_ryan_sara]
 
-[empty_beach]:           https://s3.amazonaws.com/fiveweeksabroad/10022017/Nerja_Beach.jpg
-[terrace]:               https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Hotel_Terrace.jpg
-[penny_terrace]:         https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Penny_Terrace.jpg
-[puente_nuevo]:          https://s3.amazonaws.com/fiveweeksabroad/10022017/Puente_Nuevo.jpg
-[puente_nuevo_below]:    https://s3.amazonaws.com/fiveweeksabroad/10022017/Puente_Nuevo_Below.jpg
-[ryan_puente_nuevo]:     https://s3.amazonaws.com/fiveweeksabroad/10022017/Puente_Nuevo_Ryan.jpg
-[puente_nuevo_sara]:     https://s3.amazonaws.com/fiveweeksabroad/10022017/Puente_Nuevo_Sara.jpg
-[infinity_pool]:         https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Infinity_Pool.jpg
-[penny_sunset_terrace]:  https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Penny_Sunset.jpg
-[penny_town]:            https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Penny_Town.jpg
-[punete_viejo]:          https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Puente_Viejo.jpg
-[penny_park]:            https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Penny_Park.jpg
-[gorge_puente_viejo]:    https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Gorge.jpg
-[ronda_vista]:           https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Vista.jpg
-[penny_ryan_arc]:        https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Moorish_Arch.jpg
-[medieval_ronda]:        https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Medieval.jpg
-[ronda_ryan_sara]:       https://s3.amazonaws.com/fiveweeksabroad/10022017/Ronda_Ryan_Sara.jpg
+[empty_beach]:           https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Nerja_Beach.jpg
+[terrace]:               https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Hotel_Terrace.jpg
+[penny_terrace]:         https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Penny_Terrace.jpg
+[puente_nuevo]:          https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Puente_Nuevo.jpg
+[puente_nuevo_below]:    https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Puente_Nuevo_Below.jpg
+[ryan_puente_nuevo]:     https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Puente_Nuevo_Ryan.jpg
+[puente_nuevo_sara]:     https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Puente_Nuevo_Sara.jpg
+[infinity_pool]:         https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Infinity_Pool.jpg
+[penny_sunset_terrace]:  https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Penny_Sunset.jpg
+[penny_town]:            https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Penny_Town.jpg
+[punete_viejo]:          https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Puente_Viejo.jpg
+[penny_park]:            https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Penny_Park.jpg
+[gorge_puente_viejo]:    https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Gorge.jpg
+[ronda_vista]:           https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Vista.jpg
+[penny_ryan_arc]:        https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Moorish_Arch.jpg
+[medieval_ronda]:        https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Medieval.jpg
+[ronda_ryan_sara]:       https://s3.amazonaws.com/fiveweeksabroad-assets/10022017/Ronda_Ryan_Sara.jpg
