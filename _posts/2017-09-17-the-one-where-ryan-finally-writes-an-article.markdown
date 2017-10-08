@@ -4,7 +4,8 @@ layout: post
 author: Ryan Kuhl
 date: 2017/09/17
 comments: true
-tags: digital-nomad advice software-development travel
+description: A look into the digital nomad lifestyle
+tags: digital-nomad advice software-development travel python ruby web-developer work abroad spain malaga
 ---
 
 ![Malaga Map][malaga_map]
@@ -40,7 +41,7 @@ out. With all this outlined it seemed to be pretty low risk, if the laptop gets 
 expense it. Be available half the day on west-coast time, be no more than two hours away from your computer in case of
 an emergency. Done.
 
- 
+
 Several months of working remote a day or two a week went well, contingency plan was made, nothing left but the big pitch, I want to
 work from Europe for 5 weeks! My manager vouched for me and asked up the chain of command. Everybody seemed a little dubious but
 okay with the transition.

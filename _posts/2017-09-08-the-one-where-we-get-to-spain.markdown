@@ -4,6 +4,7 @@ title:  "The One Where We Get to Spain"
 date:   2017-09-08
 author: Saralee Morales
 comments: true
+description: Arriving in Barcelona, Spain after 12 hours in an airplane with our dog Penny
 tags: travel spain
 ---
 

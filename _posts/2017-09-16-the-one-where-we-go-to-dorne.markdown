@@ -4,35 +4,36 @@ title:  "The One Where We Go To Dorne"
 date:   2017-09-16
 author: Saralee Morales
 comments: true
-tags: travel spain game-of-thones dorne seville alcazar
+description: Take a trip with us to the Alcázar castle in Seville, Spain where the territory of Dorne in Game of Thrones was actually filmed
+tags: travel spain malaga sevilla game-of-thones dorne seville alcazar cervantes
 ---
 
-Yes, DORNE. The Alcázar in Seville is where Game of Thrones filmed scenes for the Water Gardens of Dorne for Season 5. We’re pretty big GoT fans (who isn’t?) and once I learned about this nearby filming location, we had to get our butts to Seville. 
+Yes, DORNE. The Alcázar in Seville is where Game of Thrones filmed scenes for the Water Gardens of Dorne for Season 5. We’re pretty big GoT fans (who isn’t?) and once I learned about this nearby filming location, we had to get our butts to Seville.
 So we did!
 
 
-Friday morning we hopped a train from Malaga and made it to Seville in just over 2 hours. Penny enjoyed her first train ride ever, and it was well documented. 
+Friday morning we hopped a train from Malaga and made it to Seville in just over 2 hours. Penny enjoyed her first train ride ever, and it was well documented.
 
 
 ![Penny at the train station][penny_train_station]
 
 
-Did you know that Andalucia produces around 20% of the world’s olive oil? This region has olive trees for days! 
+Did you know that Andalucia produces around 20% of the world’s olive oil? This region has olive trees for days!
 
 
 ![Olive Trees][olive_trees]
 
 
-Once we arrived at our destination, we set out for the Alcázar. 
+Once we arrived at our destination, we set out for the Alcázar.
 
 
-We found a monument of Miguel de Cervantes and had to stop for a quick photo op. My mom always spoke of her school days and how much she dreaded reading Don Quixote, equating it to Shakespeare in Spanish. It’s on my reading list..for some distant future. 
+We found a monument of Miguel de Cervantes and had to stop for a quick photo op. My mom always spoke of her school days and how much she dreaded reading Don Quixote, equating it to Shakespeare in Spanish. It’s on my reading list..for some distant future.
 
 
 ![Cervantes Bust][cervantes]
 
 
-The Alcázar of Seville is a medieval Islamic palace. If I had to explain the Alcázar in one word, it would be magnificent. The architecture is eye candy and you could easily spend an entire day in the gardens. I mean, just look at this place. 
+The Alcázar of Seville is a medieval Islamic palace. If I had to explain the Alcázar in one word, it would be magnificent. The architecture is eye candy and you could easily spend an entire day in the gardens. I mean, just look at this place.
 
 
 ![Alcazar Arch][alcazar_arch]
@@ -44,26 +45,26 @@ The Alcázar of Seville is a medieval Islamic palace. If I had to explain the Al
 ![Alcazar Waterspout][alcazar_waterspout]
 
 
-Here you can see the orange building where Prince Doran of House Martell would sit and overlook the Water Gardens from. 
-No wonder the Game of Thrones team decided to film here. The show managed to find a gorgeous location to shoot, and its equally beautiful on screen and in real life. I didn’t want to leave. 
+Here you can see the orange building where Prince Doran of House Martell would sit and overlook the Water Gardens from.
+No wonder the Game of Thrones team decided to film here. The show managed to find a gorgeous location to shoot, and its equally beautiful on screen and in real life. I didn’t want to leave.
 
 
 ![Alcazar Sara in gardens][sara_gardens]
 
 
-Have I mentioned my love of maps? Ancient maps are the best. There was this impressive twenty-foot tapestry of ancient Europe inside the Alcázar. 
+Have I mentioned my love of maps? Ancient maps are the best. There was this impressive twenty-foot tapestry of ancient Europe inside the Alcázar.
 
 
 ![Sara in front of map tapestry][sara_map]
 
 
-It shows Spain facing Africa as well as Sicily. Here it is again. 
+It shows Spain facing Africa as well as Sicily. Here it is again.
 
 
 ![Huge map no. 2][map_2]
 
 
-All in all, Seville is wonderful. Even the weather is great. We got here during a “cold front.” It has been in the mid 80s all day. 
+All in all, Seville is wonderful. Even the weather is great. We got here during a “cold front.” It has been in the mid 80s all day.
 
 
 We will be in Seville for the weekend, so more updates on this awesome city coming soon!

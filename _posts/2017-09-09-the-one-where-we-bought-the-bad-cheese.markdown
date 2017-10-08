@@ -4,7 +4,8 @@ title:  "The One Where We Bought Bad Cheese"
 date:   2017-09-09
 author: Saralee Morales
 comments: true
-tags: travel spain food
+description: Arrival in Malaga, Andalucia, Spain from Barcelona, churros, the Santa Maria de la Victoria festival, and el Mercado de Atarazanas
+tags: travel spain food churro manchego malaga barcelona Mercado de Atarazanas santa maira victoria
 ---
 
 We made it to Malaga Friday morning after a short flight from Barcelona. Ryan was awestruck by the floor cleaning techniques at the Barcelona airport.

@@ -20,10 +20,7 @@ max_age:
   "assets/*": 6000
   "*": 300
 
-gzip:
-  - .html
-  - .css
-  - .md
+gzip: true
 gzip_zopfli: false
 
 # See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints

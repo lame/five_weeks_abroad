@@ -4,7 +4,8 @@ title:  "The One Where Ryan Becomes King of the South"
 date:   2017-09-11
 author: Saralee Morales
 comments: true
-tags: travel spain wine
+description: Getting a taste for the wine's of souther Spain like Moscatel and Pajarete, a visit to Castillo de Gibralfaro
+tags: travel spain wine moscatel pajarete sherry Castillo de Gibralfaro
 ---
 
 Before I get to that, I have to tell you about this delicious Spanish wine called Moscatel. It’s a rich and syrupy, Sherry-like wine, made from Moscatel grapes. It tastes of molasses and happiness. Normally, sweet dessert wine is not our thing. But we had met two friendly locals, Jeronimo and Geoffrey, and were accompanying them for a drink (or two).
