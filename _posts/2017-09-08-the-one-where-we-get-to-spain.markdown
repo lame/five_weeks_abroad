@@ -6,6 +6,7 @@ author: Saralee Morales
 comments: true
 description: Arriving in Barcelona, Spain after 12 hours in an airplane with our dog Penny
 tags: travel spain
+header_image: https://s3.amazonaws.com/fiveweeksabroad-assets/09082017/BlogLounge2.jpg
 ---
 
 The incredible forces of jetlag have me writing this at 3:42am on this fine Friday morning. This is after having stared at the ceiling of our tiny hotel room for 2 hrs...

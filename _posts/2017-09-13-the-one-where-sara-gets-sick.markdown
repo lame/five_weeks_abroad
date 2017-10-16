@@ -8,6 +8,7 @@ description: A brief introduction to the apartment and some good home cooking in
 tags: travel spain sangria cooking manchego apartment malaga new town flan
 ---
 
+
 I apologize for the use of the third person in that title, I know I’m not Elmo. I’m keeping this one short because not much happened over the past two days due to a nasty cold I acquired.
 
 

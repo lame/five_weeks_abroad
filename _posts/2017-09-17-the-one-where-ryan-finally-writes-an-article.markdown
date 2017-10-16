@@ -1,8 +1,8 @@
 ---
-title: The One Where Ryan Finally Writes an Article
 layout: post
+title:  "The One Where Ryan Finally Writes an Article"
+date:   2017-09-17
 author: Ryan Kuhl
-date: 2017/09/17
 comments: true
 description: A look into the digital nomad lifestyle
 tags: digital-nomad advice software-development travel python ruby web-developer work abroad spain malaga

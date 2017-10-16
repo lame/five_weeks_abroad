@@ -11,6 +11,13 @@ tags: travel abroad spain malaga barcelona ronda nerja seville sevilla zaragoza 
       <div class="item_details">
         <h3><a href="{{ post.url }}.html">{{ post.title }}</a></h3>
         <h4><a href="{{ post.url }}.html" title="{{ post.title }}">{{ post.date | date_to_long_string }}</a> by {{ post.author }}</h4>
+        {% if post.header_image %}
+        <p>
+          <a href="{{ post.url }}.html" >
+            <img src="{{ post.header_image }}" alt=""/>
+          </a>
+        </p>
+        {% endif %}
       </div>
     </div>
   </article>

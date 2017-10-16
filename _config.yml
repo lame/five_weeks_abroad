@@ -39,4 +39,4 @@ redcarpet:
   extensions: ["strikethrough"]
 permalink: /:year/:month/:day/:title
 exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, s3_website.yml, tmp, css, js]
-paginate: 5
+paginate: 3
