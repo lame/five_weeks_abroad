@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://fiveweeksabroad.com/sitemap.xml
